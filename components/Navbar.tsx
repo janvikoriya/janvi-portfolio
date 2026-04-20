@@ -70,7 +70,7 @@ const Navbar = () => {
             position: 'relative'
           }}>
             <img 
-              src="/laptop.png" 
+              src="/favicon.png" 
               alt="Logo" 
               style={{ width: '100%', height: '100%', objectFit: 'contain' }}
             />
