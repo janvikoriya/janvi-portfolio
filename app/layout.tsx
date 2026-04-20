@@ -12,8 +12,11 @@ export const metadata: Metadata = {
   description: "AI Software Developer building scalable web applications and GenAI features with a focus on high-performance digital products.",
   keywords: ["Janvi Koriya", "AI Software Developer", "Full Stack Engineer", "GenAI", "React Developer", "Next.js"],
   icons: {
-    icon: "/icon.png",
-    apple: "/icon.png",
+    icon: [
+      { url: "/favicon.ico" },
+      { url: "/favicon.png", type: "image/png" },
+    ],
+    apple: "/favicon.png",
   },
 };
 
