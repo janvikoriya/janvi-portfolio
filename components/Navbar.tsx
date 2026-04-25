@@ -99,7 +99,7 @@ const Navbar = () => {
               </motion.a>
             ))}
             <motion.a
-              href="/jk.pdf"
+              href="/janvi_koriya.pdf"
               target="_blank"
               download
               whileHover={{ scale: 1.05, background: '#f0f0f0' }}
@@ -194,7 +194,7 @@ const Navbar = () => {
                 </a>
               ))}
               <a
-                href="/jk.pdf"
+                href="/janvi_koriya.pdf"
                 target="_blank"
                 download
                 style={{
